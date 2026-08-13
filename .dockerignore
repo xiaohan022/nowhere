@@ -1,0 +1,7 @@
+.git
+.gitignore
+*.log
+nowhere_mcp.egg-info
+__pycache__
+*.pyc
+.venv
