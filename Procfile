@@ -1,1 +1,1 @@
-web: python -m nowhere.server --web-only $PORT
+web: python -m nowhere.server --web-only 8080
